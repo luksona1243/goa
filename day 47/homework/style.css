@@ -1,0 +1,25 @@
+.conteiner{
+    display: flex;
+    width: 500px;
+    height: 200px;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.red{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 30px;
+    color: red;
+    align-content: center;
+}
+.blue{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid blue;
+    border-radius: 30px;
+    color: blue;
+    align-content: center;
+}
