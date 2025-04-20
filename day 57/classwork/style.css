@@ -1,0 +1,37 @@
+#erti{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    color: darkviolet;
+
+}
+#erti:hover{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 12, 255);
+    color: rgb(0, 211, 165);
+}
+#ori{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    color: aqua;
+}
+#ori:hover{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(78, 129, 87);
+    color: aqua;
+}
+#sami{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(63, 44, 117);
+    color: rgb(69, 141, 75);
+}
+#sami:hover{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(99, 93, 116);
+    color: rgb(8, 78, 14);
+}
