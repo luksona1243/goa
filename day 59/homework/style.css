@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.deda{
+    position: relative;
+    display: flex;
+    width: 200vh;
+    height: 100vh;
+}
+.shvili1{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 120vh;
+    height: 100vh;
+    background-color: #e5e5e5;
+}
+.shvili2{
+    width: 100vh;
+    height: 100vh;
+    background-color: #ffffff;
+}
